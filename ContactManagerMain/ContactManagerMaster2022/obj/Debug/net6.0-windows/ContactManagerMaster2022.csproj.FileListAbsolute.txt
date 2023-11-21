@@ -1,0 +1,80 @@
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.exe
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.deps.json
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.runtimeconfig.json
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.AssemblyReference.cache
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Properties.Resources.resources
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.GenerateResource.cache
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfoInputs.cache
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfo.cs
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.CoreCompileInputs.cache
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\refint\ContactManagerMaster2022.dll
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.genruntimeconfig.cache
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ref\ContactManagerMaster2022.dll
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.ContactForm.resources
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Login.resources
+C:\Users\shannon.wuerzer\OneDrive - Pius Schäfler AG\Desktop\Test\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Start.resources
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.exe
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.deps.json
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.runtimeconfig.json
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.AssemblyReference.cache
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManager.ContactForm.resources
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManager.Login.resources
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Properties.Resources.resources
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManager.Start.resources
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.GenerateResource.cache
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfoInputs.cache
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfo.cs
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.CoreCompileInputs.cache
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\refint\ContactManagerMaster2022.dll
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.genruntimeconfig.cache
+C:\Users\adaghastani_m\Desktop\ContactManagerMaster2022\newer\ContactManagerMaster2022\ContactManagerMaster2022\obj\Debug\net6.0-windows\ref\ContactManagerMaster2022.dll
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.exe
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.deps.json
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.runtimeconfig.json
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.AssemblyReference.cache
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.ContactForm.resources
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Login.resources
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Properties.Resources.resources
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Start.resources
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.GenerateResource.cache
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfoInputs.cache
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfo.cs
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.CoreCompileInputs.cache
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\refint\ContactManagerMaster2022.dll
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.genruntimeconfig.cache
+C:\Users\Startklar\Downloads\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ref\ContactManagerMaster2022.dll
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.exe
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.deps.json
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.runtimeconfig.json
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\bin\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.AssemblyReference.cache
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.ContactForm.resources
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Login.resources
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Properties.Resources.resources
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.Start.resources
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.GenerateResource.cache
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfoInputs.cache
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.AssemblyInfo.cs
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.csproj.CoreCompileInputs.cache
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.dll
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\refint\ContactManagerMaster2022.dll
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.pdb
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ContactManagerMaster2022.genruntimeconfig.cache
+C:\dev\ContactManagerMaster2022-main\ContactManagerMaster2022\obj\Debug\net6.0-windows\ref\ContactManagerMaster2022.dll

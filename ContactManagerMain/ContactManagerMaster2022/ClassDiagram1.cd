@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ContactManagerMaster2022.ContactForm" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wJLQKCNQiACw7SQgVDGAnICHDQiVgIAOCCKAqtkIPM=</HashCode>
+      <FileName>ContactForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Customer" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQBAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAIAAEA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Employee" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAQAAEAUKAAiACAAKwEAAAAACAQAAAAEAEAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Login" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAQASAAgRAABACACBECAAAAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Person" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAEAQQCBEBUAoAAQEiAgABIoJAgCmAQIIpAQACgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Program" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Start" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oDJKIhAAhKABRhAABASFwSECAACEAgCCAGAQQAhGiE4=</HashCode>
+      <FileName>Start.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Trainee" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAABAQAAAQAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Trainee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactManagerMaster2022.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAABAAAAAAAgAgAJMgAAAQQCQAAAAEAAIAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
